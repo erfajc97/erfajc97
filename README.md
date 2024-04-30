@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Jimenez</h1>
 <h3 align="center">A passionate frontend developer from Argentina and Ecuador</h3>
 
-- 👨‍💻 All of my projects are available at [erickjimenezcruz.netlify.app](erickjimenezcruz.netlify.app)
+- 👨‍💻 All of my projects are available at [erickjimenezcruz.netlify.app](https://erickjimenezcruz.netlify.app/)
 
 - 💬 Ask me about **Mern Technologies**
 
