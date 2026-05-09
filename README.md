@@ -18,8 +18,7 @@ Passionate about **event-driven architecture**, **double-entry ledger systems**,
 - 📍 **Location**: Buenos Aires, Argentina | Timezone: UTC-3
 - 🌐 **Portfolio**: [erickjimenezcruz.netlify.app](https://erickjimenezcruz.netlify.app)
 - 📧 **Contact**: [erfacrypto@gmail.com](mailto:erfacrypto@gmail.com)
-- 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickjimenezcruz/?skipRedirect=true)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickjimenezcruz/?skipRedirect=true) : Erick Jimenez
 
 ---
 
