@@ -17,7 +17,9 @@ Passionate about **event-driven architecture**, **double-entry ledger systems**,
 - 🔐 **Expertise**: FinTech, custody systems, multi-chain wallets, DeFi infrastructure, regulatory compliance
 - 📍 **Location**: Buenos Aires, Argentina | Timezone: UTC-3
 - 🌐 **Portfolio**: [erickjimenezcruz.netlify.app](https://erickjimenezcruz.netlify.app)
-- 📧 **Contact**: [erfajc97@gmail.com](mailto:erfacrypto@gmail.com)
+- 📧 **Contact**: [erfacrypto@gmail.com](mailto:erfacrypto@gmail.com)
+- 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickjimenezcruz/?skipRedirect=true)
 
 ---
 
